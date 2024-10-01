@@ -1,0 +1,10 @@
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\bin\Debug\Lab02_4.exe.config
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\bin\Debug\Lab02_4.exe
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\bin\Debug\Lab02_4.pdb
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.csproj.AssemblyReference.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.Properties.Resources.resources
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.QLThongTinTK.resources
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.csproj.GenerateResource.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.csproj.CoreCompileInputs.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.exe
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_4\obj\Debug\Lab02_4.pdb

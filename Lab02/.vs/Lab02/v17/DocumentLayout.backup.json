@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|c:\\tin\\visual studio\\thlt moi truong window\\lab02\\lab02\\lab02_3\\qlchieuphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|solutionrelative:lab02_3\\qlchieuphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\lab02_3\\qlchieuphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|solutionrelative:lab02_3\\qlchieuphim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\lab02_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D64CC7B9-479B-49B1-9AE0-734E41EEE21F}|Lab02_3\\Lab02_3.csproj|solutionrelative:lab02_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab02_3\\Program.cs",
+              "ToolTip": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\Program.cs",
+              "RelativeToolTip": "Lab02_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:58:25.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLChieuPhim.cs",
+              "DocumentMoniker": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\QLChieuPhim.cs",
+              "RelativeDocumentMoniker": "Lab02_3\\QLChieuPhim.cs",
+              "ToolTip": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\QLChieuPhim.cs",
+              "RelativeToolTip": "Lab02_3\\QLChieuPhim.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAA5wE0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:58:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLChieuPhim.cs [Design]",
+              "DocumentMoniker": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\QLChieuPhim.cs",
+              "RelativeDocumentMoniker": "Lab02_3\\QLChieuPhim.cs",
+              "ToolTip": "C:\\Tin\\Visual Studio\\THLT moi truong Window\\Lab02\\Lab02\\Lab02_3\\QLChieuPhim.cs [Design]",
+              "RelativeToolTip": "Lab02_3\\QLChieuPhim.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:58:31.772Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\bin\Debug\Lab02_2.exe.config
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\bin\Debug\Lab02_2.exe
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\bin\Debug\Lab02_2.pdb
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02.QLThongTinSV.resources
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.exe
+C:\Users\Administrator\Desktop\2280603267_VanQuangTin\Lab02\Lab02_2\obj\Debug\Lab02_2.pdb
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.AssemblyReference.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.Properties.Resources.resources
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02.QLThongTinSV.resources
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.GenerateResource.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.csproj.CoreCompileInputs.cache
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.exe
+C:\Tin\Visual Studio\THLT moi truong Window\Lab02\Lab02\Lab02_2\obj\Debug\Lab02_2.pdb
